@@ -1,0 +1,6 @@
+<services>
+  <!-- The copy of this file in the OBS package needs to be manually updated from the one in git repo. -->
+  <service name="set_version" mode="manual">
+    <param name="file">suseconnect-ng.spec</param>
+  </service>
+</services>
